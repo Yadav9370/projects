@@ -1,0 +1,25 @@
+{
+  "name": "akash_yadav_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "bootstrap": "^5.3.8",
+    "cors": "^2.8.6",
+    "dom": "^0.0.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.3",
+    "nodemon": "^3.1.14",
+    "react": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "router": "^2.2.0"
+  }
+}
